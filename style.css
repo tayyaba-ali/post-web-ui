@@ -24,3 +24,20 @@
     border: 2px solid #125B9A;
     border-radius: 10px;
 }
+
+.selectedImg{
+    border: 10px solid black;
+}
+.bg-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.image-list-selected{
+    border: 2px solid black;
+}
+.card-body{
+    background-repeat: no-repeat !important;
+    background-size:cover !important;
+}
